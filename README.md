@@ -1,4 +1,4 @@
-## Stopwatch
+# Stopwatch
 
 Designed a circuit for 4 digit display upto 1/100 seconds https://youtu.be/4FaFRSq-aqI with three states of cycle - RESET, START and STOP.
 
